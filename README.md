@@ -44,19 +44,6 @@ open search_products.xcodeproj
 * iOS 17.0 o superior
 * Conexión a internet para búsqueda de productos
 
-## 📁 Estructura del Proyecto
-search_products/
-├── Models/
-│ └── Product.swift
-├── Views/
-│ ├── ProductCard.swift
-│ └── ProductDetailView.swift
-├── ViewModels/
-│ └── ProductViewModel.swift
-├── Services/
-│ └── ProductService.swift
-└── ContentView.swift
-
 ## ✒️ Autor
 
 * **Alejandro Burdío** - *Desarrollo* - [alejandroburdio](https://github.com/alejandroburdio)
